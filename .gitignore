@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+copy
+js
+.DS_Store
+*.zip
+goodnightmessenger/
+*.crx
+*.pem
