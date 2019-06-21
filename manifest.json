@@ -1,6 +1,6 @@
 {
   "name": "Goodnight Messenger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Creating a night/dark mode for Facebook Messenger",
   "manifest_version": 2,
   "background": {
