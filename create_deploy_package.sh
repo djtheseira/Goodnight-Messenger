@@ -17,7 +17,6 @@ cp turn_lights_on.js ./goodnightmessenger
 cp background.js ./goodnightmessenger
 cp driver.js ./goodnightmessenger
 cp manifest.json ./goodnightmessenger
-cp goodnightmessenger.pem ./goodnightmessenger/key.pem
 
 
 zip -r goodnightmessenger goodnightmessenger
